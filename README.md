@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Yvonne Gatwiri 👋</h1>
 
 <p align="center">
-🚀 <b>Frontend Developer | React | Next.js | UI/UX Enthusiast</b> <br>
+🚀 <b>Web Developer | React | Next.js | UI/UX Enthusiast</b> <br>
 🌍 Based in Nairobi, Kenya
 </p>
 
