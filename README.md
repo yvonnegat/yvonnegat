@@ -52,8 +52,8 @@
 ## 🔗 Connect With Me  
 
 📧 **Email:** yvonnegtwiri460@gmail.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yvonne-gatwiri-mwita/)  
-🌐 **Portfolio:** [Your Portfolio](https://yvonnegat.github.io/iportfolio)  
+💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/yvonne-gatwiri-mwita/)  
+  🌐 **Portfolio:** [portfolio](https://yvonnegat.github.io/iportfolio)  
 🐙 **GitHub:** [Yvonne Gatwiri](https://github.com/yvonnegat)  
 
 ---
